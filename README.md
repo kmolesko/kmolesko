@@ -1,11 +1,22 @@
-### Hi there 👋
+## 🐲 Hi there 🐲
 
-My name is Kayla. Here are some facts about me:
+### :rosette: *My name is Kayla.*
+### *What's yours? 🌻*
 
-- I am a student at Raritan Valley Community College
-- 🌱 I’m currently learning web development
-- I'm interested in politics, history, and working out
-- How to reach me: kmol4349@stu.raritanval.edu
+#### About Me :arrow_heading_down:
+
+🌱 raritan valley community college student 
+<br> :turtle: liberal arts major
+<br> :bug: computer science newbie
+
+#### 🦋 I’m currently learning about  🦋
+
+🕸️ **web development** <br>  :dragon: politics <br> 🦕 history <br> 🦏 physical fitness 
+
+
+### *how to reach me:* 
+:dove: kmol4349@stu.raritanval.edu
+
 
 
 <!--
