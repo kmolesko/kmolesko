@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Kayla. Here are some facts about me:
+
+- I am a student at Raritan Valley Community College
+- 🌱 I’m currently learning web development
+- I'm interested in politics, history, and working out
+- How to reach me: kmol4349@stu.raritanval.edu
+
+
 <!--
 **kmolesko/kmolesko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
