@@ -1,21 +1,25 @@
-## 🐲 Hi there 🐲
+## hi there!
+ 
+### my name is kayla. *(what's yours?)*
 
-### :rosette: *My name is Kayla.*
-### *What's yours? 🌻*
+***
 
-#### About Me :arrow_heading_down:
+### some info about me:
 
-🌱 raritan valley community college student 
-<br> :turtle: liberal arts major
-<br> :bug: computer science newbie
+- *liberal arts major at raritan valley community college*
 
-#### 🦋 I’m currently learning about  🦋
+- i’m currently enrolled in a web development course through which i hope to gain some basic coding skills. complete computer science beginner here. 
 
-🕸️ **web development** <br>  :dragon: politics <br> 🦕 history <br> 🦏 physical fitness 
+- some of my other interests include politics, history, entertainment and culture. 
 
+- in my free time i enjoy watching movies/tv, gaming, working out, cooking, and learning new things.
 
-### *how to reach me:* 
-:dove: kmol4349@stu.raritanval.edu
+- i have two black cats named simba and todd.
+
+***
+
+### how to reach me:
+kmol4349@stu.raritanval.edu
 
 
 
