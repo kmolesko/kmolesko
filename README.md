@@ -1,27 +1,27 @@
-## hi there!
+:nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet:
  
-### my name is kayla. *(what's yours?)*
+## hi! :computer:
+ 
+### my name is kayla. :eye_speech_bubble: *what's yours?* 
 
-***
+### :cyclone: some info about me:
 
-### some info about me:
+- *:mortar_board: liberal arts major at raritan valley community college*
 
-- *liberal arts major at raritan valley community college*
+- i’m currently enrolled in a web development course through which i hope to gain some basic coding skills. complete computer science beginner here :pager: . 
 
-- i’m currently enrolled in a web development course through which i hope to gain some basic coding skills. complete computer science beginner here. 
+- some of my other interests include politics, history, music :headphones:, entertainment and culture. 
 
-- some of my other interests include politics, history, entertainment and culture. 
+- in my free time i enjoy watching movies/tv, gaming :video_game:, working out, cooking, and learning new things :ringed_planet:.
 
-- in my free time i enjoy watching movies/tv, gaming, working out, cooking, and learning new things.
+- i have two black cats :octocat: named simba and todd: 
 
-- i have two black cats named simba and todd.
+![cats-github-profile](https://user-images.githubusercontent.com/122915064/214400217-bab4c7b3-9118-4335-b01c-a0437657a95f.jpg)
 
-***
+### :cyclone: how to reach me:
+:shipit:kmol4349@stu.raritanval.edu 
 
-### how to reach me:
-kmol4349@stu.raritanval.edu
-
-
+:nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet::nazar_amulet:
 
 <!--
 **kmolesko/kmolesko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
