@@ -14,9 +14,11 @@
 
 - in my free time i enjoy watching movies/tv, gaming :video_game:, working out, cooking, and learning new things :ringed_planet:.
 
-- i have two black cats :octocat: named simba and todd: 
+- i have two black cats :octocat: named simba and todd.
 
-![cats-github-profile](https://user-images.githubusercontent.com/122915064/214400217-bab4c7b3-9118-4335-b01c-a0437657a95f.jpg)
+### :cyclone: here is a video of my cat simba playing outside in the summer! :arrow_down:
+
+https://user-images.githubusercontent.com/122915064/214406184-189d2c72-3c71-45ee-8783-ef44c0744479.MP4
 
 ### :cyclone: how to reach me:
 :shipit:kmol4349@stu.raritanval.edu 
